@@ -1,3 +1,7 @@
+'''
+Python Practice Examples
+
+'''
 a = 1/4 + 25*2+100-50
 print(a)
 
